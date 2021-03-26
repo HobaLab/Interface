@@ -2,7 +2,7 @@
   "files": {
     "static/js/0.4f277edb.chunk.js": "/static/js/0.4f277edb.chunk.js",
     "ethers-main.js": "/static/js/ethers-main.5f5a3842.chunk.js",
-    "main.js": "/static/js/main.b2a471ca.chunk.js",
+    "main.js": "/static/js/main.ec3db0b1.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.09f266ff.js",
     "vendors-main.css": "/static/css/vendors-main.ef9b189a.chunk.css",
     "vendors-main.js": "/static/js/vendors-main.e162416e.chunk.js",
@@ -15,7 +15,7 @@
     "static/js/11.00c6423c.chunk.js": "/static/js/11.00c6423c.chunk.js",
     "static/js/12.c849a061.chunk.js": "/static/js/12.c849a061.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.52929ded6c4d5db903f7bc4a06f16cda.js": "/precache-manifest.52929ded6c4d5db903f7bc4a06f16cda.js",
+    "precache-manifest.02fc45f528e21112d7b88f0753f6366d.js": "/precache-manifest.02fc45f528e21112d7b88f0753f6366d.js",
     "service-worker.js": "/service-worker.js",
     "static/media/about-joys-title.png": "/static/media/about-joys-title.76d4169a.png",
     "static/media/activity-nft-title-en.png": "/static/media/activity-nft-title-en.d644f1fa.png",
@@ -405,6 +405,6 @@
     "static/js/ethers-main.5f5a3842.chunk.js",
     "static/css/vendors-main.ef9b189a.chunk.css",
     "static/js/vendors-main.e162416e.chunk.js",
-    "static/js/main.b2a471ca.chunk.js"
+    "static/js/main.ec3db0b1.chunk.js"
   ]
 }
