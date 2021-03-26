@@ -2,10 +2,10 @@
   "files": {
     "static/js/0.aae91308.chunk.js": "/static/js/0.aae91308.chunk.js",
     "ethers-main.js": "/static/js/ethers-main.56779bd4.chunk.js",
-    "main.js": "/static/js/main.db38ebde.chunk.js",
+    "main.js": "/static/js/main.1dd37ccf.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.3d14d688.js",
     "vendors-main.css": "/static/css/vendors-main.ef9b189a.chunk.css",
-    "vendors-main.js": "/static/js/vendors-main.753e496d.chunk.js",
+    "vendors-main.js": "/static/js/vendors-main.5fa5e2e1.chunk.js",
     "static/js/5.8d16cc39.chunk.js": "/static/js/5.8d16cc39.chunk.js",
     "static/js/6.732b27ed.chunk.js": "/static/js/6.732b27ed.chunk.js",
     "static/js/7.24bfbfdd.chunk.js": "/static/js/7.24bfbfdd.chunk.js",
@@ -15,7 +15,7 @@
     "static/js/11.7a318a7c.chunk.js": "/static/js/11.7a318a7c.chunk.js",
     "static/js/12.0aa8f53d.chunk.js": "/static/js/12.0aa8f53d.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.e8df1bc98ccbcc47dec5823ed88505d0.js": "/precache-manifest.e8df1bc98ccbcc47dec5823ed88505d0.js",
+    "precache-manifest.0fb7c5648e3955104827797d0e4e7796.js": "/precache-manifest.0fb7c5648e3955104827797d0e4e7796.js",
     "service-worker.js": "/service-worker.js",
     "static/media/about-joys-title.png": "/static/media/about-joys-title.76d4169a.png",
     "static/media/activity-nft-title-en.png": "/static/media/activity-nft-title-en.d644f1fa.png",
@@ -400,7 +400,7 @@
     "static/js/runtime-main.3d14d688.js",
     "static/js/ethers-main.56779bd4.chunk.js",
     "static/css/vendors-main.ef9b189a.chunk.css",
-    "static/js/vendors-main.753e496d.chunk.js",
-    "static/js/main.db38ebde.chunk.js"
+    "static/js/vendors-main.5fa5e2e1.chunk.js",
+    "static/js/main.1dd37ccf.chunk.js"
   ]
 }
