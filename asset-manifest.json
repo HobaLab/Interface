@@ -2,7 +2,7 @@
   "files": {
     "static/js/0.08912013.chunk.js": "https://hongbao-fi.oss-cn-beijing.aliyuncs.com/hongbao/static/js/0.08912013.chunk.js",
     "ethers-main.js": "https://hongbao-fi.oss-cn-beijing.aliyuncs.com/hongbao/static/js/ethers-main.5b8db86b.chunk.js",
-    "main.js": "https://hongbao-fi.oss-cn-beijing.aliyuncs.com/hongbao/static/js/main.556f414b.chunk.js",
+    "main.js": "https://hongbao-fi.oss-cn-beijing.aliyuncs.com/hongbao/static/js/main.579c6da3.chunk.js",
     "runtime-main.js": "https://hongbao-fi.oss-cn-beijing.aliyuncs.com/hongbao/static/js/runtime-main.a0df9605.js",
     "vendors-main.css": "https://hongbao-fi.oss-cn-beijing.aliyuncs.com/hongbao/static/css/vendors-main.ef9b189a.chunk.css",
     "vendors-main.js": "https://hongbao-fi.oss-cn-beijing.aliyuncs.com/hongbao/static/js/vendors-main.f80be8be.chunk.js",
@@ -15,7 +15,7 @@
     "static/js/11.8da0e4a4.chunk.js": "https://hongbao-fi.oss-cn-beijing.aliyuncs.com/hongbao/static/js/11.8da0e4a4.chunk.js",
     "static/js/12.0e9fd77c.chunk.js": "https://hongbao-fi.oss-cn-beijing.aliyuncs.com/hongbao/static/js/12.0e9fd77c.chunk.js",
     "index.html": "https://hongbao-fi.oss-cn-beijing.aliyuncs.com/hongbao/index.html",
-    "precache-manifest.dd9a1651ec09bd62573e2a3fe516320e.js": "https://hongbao-fi.oss-cn-beijing.aliyuncs.com/hongbao/precache-manifest.dd9a1651ec09bd62573e2a3fe516320e.js",
+    "precache-manifest.70e405290b054b2934dad1689a800b90.js": "https://hongbao-fi.oss-cn-beijing.aliyuncs.com/hongbao/precache-manifest.70e405290b054b2934dad1689a800b90.js",
     "service-worker.js": "https://hongbao-fi.oss-cn-beijing.aliyuncs.com/hongbao/service-worker.js",
     "static/media/about-joys-title.png": "https://hongbao-fi.oss-cn-beijing.aliyuncs.com/hongbao/static/media/about-joys-title.76d4169a.png",
     "static/media/activity-nft-title-en.png": "https://hongbao-fi.oss-cn-beijing.aliyuncs.com/hongbao/static/media/activity-nft-title-en.d644f1fa.png",
@@ -407,6 +407,6 @@
     "static/js/ethers-main.5b8db86b.chunk.js",
     "static/css/vendors-main.ef9b189a.chunk.css",
     "static/js/vendors-main.f80be8be.chunk.js",
-    "static/js/main.556f414b.chunk.js"
+    "static/js/main.579c6da3.chunk.js"
   ]
 }
