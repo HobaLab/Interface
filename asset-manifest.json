@@ -1,20 +1,20 @@
 {
   "files": {
     "static/js/0.e7e64912.chunk.js": "https://hongbao-fi.oss-cn-beijing.aliyuncs.com/hongbao/static/js/0.e7e64912.chunk.js",
-    "ethers-main.js": "https://hongbao-fi.oss-cn-beijing.aliyuncs.com/hongbao/static/js/ethers-main.2b9ee3e4.chunk.js",
-    "main.js": "https://hongbao-fi.oss-cn-beijing.aliyuncs.com/hongbao/static/js/main.51976997.chunk.js",
-    "runtime-main.js": "https://hongbao-fi.oss-cn-beijing.aliyuncs.com/hongbao/static/js/runtime-main.dea2769c.js",
+    "ethers-main.js": "https://hongbao-fi.oss-cn-beijing.aliyuncs.com/hongbao/static/js/ethers-main.75857608.chunk.js",
+    "main.js": "https://hongbao-fi.oss-cn-beijing.aliyuncs.com/hongbao/static/js/main.0fd023f4.chunk.js",
+    "runtime-main.js": "https://hongbao-fi.oss-cn-beijing.aliyuncs.com/hongbao/static/js/runtime-main.27900b2b.js",
     "vendors-main.css": "https://hongbao-fi.oss-cn-beijing.aliyuncs.com/hongbao/static/css/vendors-main.b487bcf6.chunk.css",
-    "vendors-main.js": "https://hongbao-fi.oss-cn-beijing.aliyuncs.com/hongbao/static/js/vendors-main.61b47918.chunk.js",
-    "static/js/5.d0e92285.chunk.js": "https://hongbao-fi.oss-cn-beijing.aliyuncs.com/hongbao/static/js/5.d0e92285.chunk.js",
-    "static/js/6.9801bec1.chunk.js": "https://hongbao-fi.oss-cn-beijing.aliyuncs.com/hongbao/static/js/6.9801bec1.chunk.js",
-    "static/js/7.8f5e7857.chunk.js": "https://hongbao-fi.oss-cn-beijing.aliyuncs.com/hongbao/static/js/7.8f5e7857.chunk.js",
+    "vendors-main.js": "https://hongbao-fi.oss-cn-beijing.aliyuncs.com/hongbao/static/js/vendors-main.4924dbbe.chunk.js",
+    "static/js/5.4b414f31.chunk.js": "https://hongbao-fi.oss-cn-beijing.aliyuncs.com/hongbao/static/js/5.4b414f31.chunk.js",
+    "static/js/6.9531df0c.chunk.js": "https://hongbao-fi.oss-cn-beijing.aliyuncs.com/hongbao/static/js/6.9531df0c.chunk.js",
+    "static/js/7.1e02b2a5.chunk.js": "https://hongbao-fi.oss-cn-beijing.aliyuncs.com/hongbao/static/js/7.1e02b2a5.chunk.js",
     "static/js/8.ce0eaad3.chunk.js": "https://hongbao-fi.oss-cn-beijing.aliyuncs.com/hongbao/static/js/8.ce0eaad3.chunk.js",
-    "static/js/9.77081a93.chunk.js": "https://hongbao-fi.oss-cn-beijing.aliyuncs.com/hongbao/static/js/9.77081a93.chunk.js",
+    "static/js/9.dadad222.chunk.js": "https://hongbao-fi.oss-cn-beijing.aliyuncs.com/hongbao/static/js/9.dadad222.chunk.js",
     "static/js/10.f4b84b10.chunk.js": "https://hongbao-fi.oss-cn-beijing.aliyuncs.com/hongbao/static/js/10.f4b84b10.chunk.js",
     "static/js/11.009d4be4.chunk.js": "https://hongbao-fi.oss-cn-beijing.aliyuncs.com/hongbao/static/js/11.009d4be4.chunk.js",
     "index.html": "https://hongbao-fi.oss-cn-beijing.aliyuncs.com/hongbao/index.html",
-    "precache-manifest.837472459d5600a524e9e2a5d9608d04.js": "https://hongbao-fi.oss-cn-beijing.aliyuncs.com/hongbao/precache-manifest.837472459d5600a524e9e2a5d9608d04.js",
+    "precache-manifest.26f11b9f328e4ae1caa3db5aa260ed67.js": "https://hongbao-fi.oss-cn-beijing.aliyuncs.com/hongbao/precache-manifest.26f11b9f328e4ae1caa3db5aa260ed67.js",
     "service-worker.js": "https://hongbao-fi.oss-cn-beijing.aliyuncs.com/hongbao/service-worker.js",
     "static/media/about-joys-title.png": "https://hongbao-fi.oss-cn-beijing.aliyuncs.com/hongbao/static/media/about-joys-title.76d4169a.png",
     "static/media/activity-nft-title-en.png": "https://hongbao-fi.oss-cn-beijing.aliyuncs.com/hongbao/static/media/activity-nft-title-en.d644f1fa.png",
@@ -432,10 +432,10 @@
     "static/media/wokemon.png": "https://hongbao-fi.oss-cn-beijing.aliyuncs.com/hongbao/static/media/wokemon.cb5a52c0.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.dea2769c.js",
-    "static/js/ethers-main.2b9ee3e4.chunk.js",
+    "static/js/runtime-main.27900b2b.js",
+    "static/js/ethers-main.75857608.chunk.js",
     "static/css/vendors-main.b487bcf6.chunk.css",
-    "static/js/vendors-main.61b47918.chunk.js",
-    "static/js/main.51976997.chunk.js"
+    "static/js/vendors-main.4924dbbe.chunk.js",
+    "static/js/main.0fd023f4.chunk.js"
   ]
 }
